@@ -1,3 +1,3 @@
 # Code of "Federated Graph Clustering with Structural Privacy Preservation"
 
-The code will be available after the paper been accepted.
+The code is partially pasted and will be available after the paper has been accepted.
